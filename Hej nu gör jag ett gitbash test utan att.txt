@@ -1,3 +1,4 @@
 Hej nu gör jag ett gitbash test utan att kolla på instruktions videon.
 Jag lägger till text i mitt projekt och sedan pushar jag via GitBash
 Redigerar text via GitHUB för att sedan göra en pull i gitbash
+Allt fungerar perfekt!!
